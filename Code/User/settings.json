@@ -1,0 +1,47 @@
+{
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": false,
+    "editor.renderLineHighlight": "none",
+    "workbench.colorTheme": "Atom One Light",
+    "window.zoomLevel": 1,
+    // Live share changes:
+    "liveshare.guestApprovalRequired": true,
+    //"liveshare.connectionMode": "direct",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.rendererType": "dom",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
+    "[plaintext]": {},
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.tabSize": 2,
+        "editor.formatOnSave": false
+    },
+    "sass.disableAutoIndent": true,
+    "scssFormatter.tabWidth": 4,
+    "editor.formatOnSaveTimeout": 2000,
+    "liveshare.featureSet": "insiders",
+    "elmLS.elmAnalyseTrigger": "save",
+    "[haskell]": {
+        "editor.defaultFormatter": "sjurmillidahl.ormolu-vscode"
+    },
+    "[purescript]": {
+        "editor.tabSize": 2
+    },
+    "purescript.autocompleteAddImport": true,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true
+}
